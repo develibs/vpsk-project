@@ -1,6 +1,6 @@
 .btnbuy{
     margin-left: 400px;
-    margin-top: 50px;
+  
 
 }
 .tw{
@@ -13,5 +13,46 @@
 
 .spng{
     margin-left: 400px;
-    margin-bottom: 400px;
+    width: 600px;
+    height: 200px;
+    margin-bottom: 200px;
+    
 }
+
+.otstup {
+
+margin-top: 50px;
+margin-left: 200px;
+
+
+
+}
+.mda{
+    display: inline-block;
+
+
+}
+
+
+.footer {
+    position: absolute;
+    padding-top: 50px;
+    background: rgba(25, 30, 32, 0);
+    color: white;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+
+  @media (max-width:768px) {
+
+  }
+  @media (max-width:320px) {
+
+  }
+
+  
+
